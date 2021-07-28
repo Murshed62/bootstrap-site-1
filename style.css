@@ -1,0 +1,22 @@
+.hedu{
+    padding-top: 150px;
+    padding-right: 200px;
+    margin-right: 200px;
+
+}
+.backcolor{
+    background-color: rgb(236, 241, 163);
+    padding: 48px 16px;
+}
+.buttoni{
+    background-image: linear-gradient(to right, #DD5E89 0%, #F7BB97 51%, #DD5E89 100%);
+    color: white;
+    font-weight: 700;
+    padding: 16px;
+    margin: 16px;
+    border-radius: 15px;
+}
+.hi{
+    font-size: 72px;
+    
+}
